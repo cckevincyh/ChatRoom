@@ -1,4 +1,4 @@
-package chat_room.client.tools;
+package chat_server.server.tools;
 
 import java.awt.Container;
 import java.awt.Dimension;
